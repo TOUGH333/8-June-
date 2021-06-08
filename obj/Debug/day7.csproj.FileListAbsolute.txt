@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\day7\bin\Debug\day7.exe.config
+C:\Users\student\source\repos\day7\bin\Debug\day7.exe
+C:\Users\student\source\repos\day7\bin\Debug\day7.pdb
+C:\Users\student\source\repos\day7\obj\Debug\day7.csprojAssemblyReference.cache
+C:\Users\student\source\repos\day7\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\day7\obj\Debug\App.g.cs
+C:\Users\student\source\repos\day7\obj\Debug\day7_MarkupCompile.cache
+C:\Users\student\source\repos\day7\obj\Debug\day7_MarkupCompile.lref
+C:\Users\student\source\repos\day7\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\day7\obj\Debug\day7.g.resources
+C:\Users\student\source\repos\day7\obj\Debug\day7.Properties.Resources.resources
+C:\Users\student\source\repos\day7\obj\Debug\day7.csproj.GenerateResource.cache
+C:\Users\student\source\repos\day7\obj\Debug\day7.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\day7\obj\Debug\day7.exe
+C:\Users\student\source\repos\day7\obj\Debug\day7.pdb
